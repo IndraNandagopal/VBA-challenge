@@ -36,13 +36,13 @@ Uploaded the following to GitHub:
   * A screen shot for each year of your results on the multi-year stock data.
 
 ### 2018:
-![2018 Stock Data analysis](Resources/hard_solution_2018.PNG)
+![2018 Stock Data analysis](Resources/hard_solution_2018.png)
 
 ### 2019:
-![2019 Stock Data analysis](Resources/hard_solution_2019.PNG)
+![2019 Stock Data analysis](Resources/hard_solution_2019.png)
 
 ### 2020:
-![2020 Stock Data analysis](Resources/hard_solution_2020.PNG)
+![2020 Stock Data analysis](Resources/hard_solution_2020.png)
 
   * VBA scripts as separate files.
 
