@@ -6,9 +6,9 @@ This project is to analyse the stock market data for 3 years (2018, 2019 and 202
 
 ### Files Used
 
-* [Test Data](\alphabetical_testing.xlsm) - Used this while developing the VBA script.
+* [Test Data](alphabetical_testing.xlsm) - Used this while developing the VBA script.
 
-* [Stock Data](\Multiple_year_stock_data.xlsm) - Ran the script on this data to generate the final report.
+* [Stock Data](Multiple_year_stock_data.xlsm) - Ran the script on this data to generate the final report.
 
 ### Solution
 
