@@ -3,7 +3,7 @@ Attribute VB_Name = "Module1"
 
 Sub stockData():
     
-        'looping through the worksheets
+'looping through the worksheets
     
   For Each ws In Worksheets
   
@@ -119,6 +119,7 @@ Sub stockData():
     
     'Add functionality to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume"
     
+    'find the ticker name with the maxPercent
     
     ws.Cells(2, 17).Value = 0
     ws.Cells(3, 17).Value = 0
@@ -157,6 +158,9 @@ Sub stockData():
     ws.Cells(3, 17).NumberFormat = "0.00%"
     ws.Cells(4, 17).NumberFormat = "0.00E+00"
     ws.Columns("I:Q").AutoFit
+    
+    'Modified teact to Bold for columns from A to Q
+    ws.Columns("A:Q").Font.Bold = True
    
    'Process Next worksheet
    Next ws

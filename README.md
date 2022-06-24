@@ -12,7 +12,7 @@ This project is to analyse the stock market data for 3 years (2018, 2019 and 202
 
 ### Solution
 
-The goal is to create a VBA script that loops through all the stocks for one year and outputs the following information:
+The goal is to create a VBA script that loops through all the stocks for three years and output the following information for each year:
 
   * The ticker symbol.
 
@@ -33,7 +33,7 @@ Made the appropriate adjustments to the VBA script to allow it to run on every w
 
 Uploaded the following to GitHub:
 
-  * A screen shot for each year of your results on the multi-year stock data.
+  * A screen shot of results for each year on the multi-year stock data. These screen shots are available in "Resources" folder.
 
 ### 2018:
 ![2018 Stock Data analysis](Resources/hard_solution_2018.PNG)
@@ -44,7 +44,8 @@ Uploaded the following to GitHub:
 ### 2020:
 ![2020 Stock Data analysis](Resources/hard_solution_2020.PNG)
 
-  * VBA scripts as separate files.
+  * VBA script as a separate file. 
+    The name of the VBA script is "stockData.vbs"
 
 
 
